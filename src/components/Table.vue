@@ -169,15 +169,6 @@ const viewProfile = (user) =>{
 	let getGuarantor = JSON.stringify(user.guarantor);
 	localStorage.setItem('guarantor', getGuarantor)
 }
-
-const displayItems = () =>{
-	// let previousElement = document.querySelector('#previous');
-	// let nextElement = document.querySelector('#next');
-	// console.log("prev>>",previousElement)
-	// console.log("next>>",nextElement)
-}
-
-displayItems()
 </script>
 
 <style scoped>

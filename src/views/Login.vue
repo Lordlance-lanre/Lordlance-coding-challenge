@@ -27,10 +27,10 @@ const showValue = (e) =>{
   //------form validation---//
   let loginSuccess = "Login successful"
   let loginFail = "Your Details Are Incorrect"
-  validErrors.value = email.value.includes(".com") && password.value.length > '4' ? loginSuccess : loginFail;
+  validErrors.value = email.value.includes(".com") || email.value.includes("@") && password.value.length > '4' ? loginSuccess : loginFail;
   console.log("validErrors>>", validErrors.value)
 
-  if(validErrors.value === "Login successful"){
+  if(validErrors.value === loginSuccess){
     setTimeout(() => router.push('/dashboard'), 2000)
   }else{
     email.value = "";
@@ -79,7 +79,7 @@ const showPassword = () =>{
 
     <div class="md:grid grid-cols-2 mt-16">
       <div>
-        <img src="../assets/pablo-sign-in 1.svg" class="w-[560px]">
+        <img src="../assets/pablo-sign-in1.svg" class="w-[560px]">
       </div>
       <div class="text-center mt-10 md:-mt-16">
         <h2 class="text-indigo-900 text-3xl font-extrabold">WELCOME!</h2>

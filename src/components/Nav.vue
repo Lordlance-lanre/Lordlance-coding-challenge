@@ -17,13 +17,13 @@
 	      <div class="hidden md:block">
 	      	<input type="text" class="border-2 border-slate-200 w-[100px] md:py-1 px-2 md:w-[300px] text-xs md:mt-[-20px] rounded outline-none" placeholder="Search for anything">
 	      	<button class="rounded-md ">
-	      		<img src="../assets/Vector (6).png" class="absolute bg-cyan-500 px-3 md:px-4 py-[3px] md:py-2 md:-my-[19px] -my-[14px] -mx-2 rounded" alt="">
+	      		<img src="../assets/Vector6.png" class="absolute bg-cyan-500 px-3 md:px-4 py-[3px] md:py-2 md:-my-[19px] -my-[14px] -mx-2 rounded" alt="">
 	      	</button>
 	      </div>
 
 	      <div class="flex md:flex hidden">
 	      	<p class="hover:underline mx-1 text-sm mt-1 md:text-lg md:-mt-0 text-indigo-600">Doc</p>
-	      	<img src="../assets/Vector (5).png" class="w-3 md:w-4 md:h-5 h-3 mx-2 mt-2 md:mt-1">
+	      	<img src="../assets/Vector5.png" class="w-3 md:w-4 md:h-5 h-3 mx-2 mt-2 md:mt-1">
 	      	<img src="../assets/avatar-svgrepo-com.svg" class="w-4 h-4 mt-1 md:w-8 md:h-8 md:-mt-1">
 	      	<p class="text-[10px] mx-1 mt-1 md:mt-1">Adedeji</p>
 	      	<img src="../assets/arrow-down.png" class="w-3 h-3 mt-2 md:mt-2">

@@ -6,7 +6,7 @@
 			<th >
 				<div class="flex">
 					<p >Organization</p>
-				    <img src="../assets/Vector (8).png" class="mx-1 w-2 md:mt-3 h-2 mt-1">
+				    <img src="../assets/Vector8.png" class="mx-1 w-2 md:mt-3 h-2 mt-1">
 				</div>
 				
 
@@ -14,33 +14,33 @@
 			<th >
 				<div class="flex px-1">
 					<p>Username</p>
-				    <img src="../assets/Vector (8).png" class="mx-1 md:mt-3 w-2 h-2 mt-1">
+				    <img src="../assets/Vector8.png" class="mx-1 md:mt-3 w-2 h-2 mt-1">
 				</div>
 				
 			</th>
 			<th>
 				<div class="flex px-1">
 					<p>Email</p>
-				   <img src="../assets/Vector (8).png" class="mx-1 w-2 h-2 mt-1 md:mt-3">
+				   <img src="../assets/Vector8.png" class="mx-1 w-2 h-2 mt-1 md:mt-3">
 				</div>
 				
 			</th>
 			<th>
 				<div class="flex px-1">
 					<p class="text-[12px] md:text-[18px]">Phone Number</p>
-				   <img src="../assets/Vector (8).png" class="mx-1 md:mt-3 w-2 h-2 mt-1">
+				   <img src="../assets/Vector8.png" class="mx-1 md:mt-3 w-2 h-2 mt-1">
 				</div>
 			</th>
 			<th>
 				<div class="flex px-1">
 				  <p>Date Joined</p>
-				  <img src="../assets/Vector (8).png" class="mx-1 w-2 h-2 md:mt-3 mt-1">
+				  <img src="../assets/Vector8.png" class="mx-1 w-2 h-2 md:mt-3 mt-1">
 				</div>
 			</th>
 			<th>
 				<div class="flex px-1">
 				   	<p>Status</p>
-				    <img src="../assets/Vector (8).png" class="mx-1 md:mt-3 w-2 h-2 mt-1">
+				    <img src="../assets/Vector8.png" class="mx-1 md:mt-3 w-2 h-2 mt-1">
 				</div>
 			</th>
 			<th>

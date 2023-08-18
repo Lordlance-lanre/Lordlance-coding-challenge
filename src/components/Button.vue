@@ -1,7 +1,7 @@
 <template>
 	<div>
 		<button @mouseover="openProfile" class="py-5">
-			<img src="../assets/Vector (9).png" alt="">
+			<img src="../assets/Vector9.png" alt="">
 		</button>
 			<div v-if="open">
 				<button @click="getProfile" class="py-1 px-4 shadow-md">View Profile
